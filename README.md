@@ -25,36 +25,7 @@
   - Tek seferde 20.000₺ ve altında gönderim  
   - Müşteri No ile havale alıcı seçimi  
 - **Ödemeler**  
-  - Elektrik, Su, Doğalgaz, İnternet faturası borç ve ödeme butonları  
-- **Responsive Renk Temaları**  
-  - Her modül kendi arka plan rengini seçiyor:  
-    - Giriş & Şifre Yenileme: nane yeşili  
-    - Kayıt: pastel sarı  
-    - Para çekme: soluk krem  
-    - Para yatırma: turuncu  
-    - Havale: mor  
-    - Fatura ödemeler: su mavisi  
-    - Ayarlar: limon sarısı  
-
----
-
-## 📸 Ekran Görüntüleri
-
-<div align="center">
-  <img src="screenshots/login.png"   alt="Giriş Ekranı"       width="300"/>
-  <img src="screenshots/reset.png"   alt="Şifre Yenileme"      width="300"/>
-  <img src="screenshots/register.png"alt="Kayıt Ol Ekranı"     width="300"/>
-  <img src="screenshots/home.png"    alt="Hesap Ana Sayfa"     width="300"/>
-  <img src="screenshots/withdraw.png"alt="Para Çekme"          width="300"/>
-  <img src="screenshots/deposit.png" alt="Para Yatırma"        width="300"/>
-  <img src="screenshots/transfer.png"alt="Havale"              width="300"/>
-  <img src="screenshots/payments.png"alt="Fatura Ödemeleri"    width="300"/>
-  <img src="screenshots/settings.png"alt="Hesap Ayarları"      width="300"/>
-</div>
-
-> *“Şifremi Unuttum” butonuna basınca doğrudan Şifre Yenileme ekranına yönlendirileceğini unutma.*
-
----
+  - Elektrik, Su, Doğalgaz, İnternet faturası borç ve ödeme butonları
 
 ## ⚙️ Kurulum & Çalıştırma
 
