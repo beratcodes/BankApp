@@ -1,4 +1,4 @@
-# 🏦 BankaApp
+# 🏦 BankApp
 
 > **BankaApp** ile dijital bankacılığın tüm temel adımlarını öğrenin: kayıt, giriş, şifre sıfırlama, bakiye görüntüleme, para çekme/yatırma, havale ve fatura ödemeleri.  
 > Java Swing & JDBC temelli, kullanıcı dostu bir masaüstü bankacılık simülasyonu.
